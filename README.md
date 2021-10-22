@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isw1
+- 👋 Hi, I’m Issara
 - 👀 I’m interested in motion UX
 - 🌱 I’m currently learning motion for design systems
 - 💞️ I’m looking to collaborate on motion for design systems
